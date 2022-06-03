@@ -1,10 +1,18 @@
 header{
     background-color: #BBBBBB;
-    display: flex;
-    flex-direction: row;
-    justify-content:space-around;
-    align-items: center;
     padding: 20px 0px;
+}
+
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0px auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0px;
 }
 
 nav li{
@@ -24,6 +32,7 @@ nav a:hover {
     color: #c78c19;
     text-decoration: underline;
 }
+
 .productos{
     width: 940px;
     margin: 0 auto;
