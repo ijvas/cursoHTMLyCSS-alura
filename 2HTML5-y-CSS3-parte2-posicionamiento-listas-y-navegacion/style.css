@@ -77,3 +77,15 @@ em strong{
 .imagenDiferenciales{
     width: 50%;
 }
+
+footer{
+    text-align: center;
+    background: url(imagenes/bg.jpg);
+    padding: 40px ;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px;
+}
