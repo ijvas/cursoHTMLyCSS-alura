@@ -225,6 +225,10 @@ td, th{
     line-height: 1.5;
 }
 
+.items:before{
+    content: "★";
+}
+
 /* .items:nth-child(1){
     font-weight: bold;
 } */
